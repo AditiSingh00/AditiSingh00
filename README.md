@@ -2,9 +2,6 @@
 <h1 align="center">नमस्ते (Namaste)🙏,I'm Aditi Singh</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditisingh06&label=Profile%20views&color=0e75b6&style=flat" alt="aditisingh06" /> </p>
-
-<p align="left"> <a href="https://twitter.com/__aditi6" target="blank"><img src="https://img.shields.io/twitter/follow/__aditi6?logo=twitter&style=for-the-badge" alt="__aditi6" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS**
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Javascript/Typescript/python**
+- 💬 Ask me about **Javascript/python**
 
 - 📫 How to reach me **aditidhn06@gmail.com**
 

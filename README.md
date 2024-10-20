@@ -36,8 +36,8 @@
 <br>
 <!-- <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" " height="30" width="40" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AditiSingh00/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/AditiSingh00/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" " height="30" width="40" /></a>
 </p> -->
 <br>
 
@@ -55,7 +55,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,firebase,bash" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,firebase" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,notion,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
   </a>
 </p>
 <br/>

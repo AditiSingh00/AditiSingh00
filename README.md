@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 
 
@@ -27,11 +27,11 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **VueJs**
 
-- 💬 Ask me about **Python ,Javascript, ReactJs, NodeJS**
+- 💬 Ask me about **Python ,Javascript, ReactJs, NextJs, NodeJS**
 
-- 📫 How to reach me **aditidhn06@gmail.com**
+- 📫 How to reach me **aditisinghdhn01@gmail.com**
 
 - ⚡ Fun fact **I talk to my code, and sometimes... it answers back!**
 
@@ -50,7 +50,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,scss,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,scss,tailwind,ts,nextjs" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
   </a>
 </p>
 
